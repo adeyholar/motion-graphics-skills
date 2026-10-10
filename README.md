@@ -11,12 +11,12 @@
 <h1 align="center">Motion Graphics Skill Pack</h1>
 
 <p align="center">
-  <strong>13 skills that make launch-grade motion graphics with Claude Code. Every frame is code.</strong>
+  <strong>14 skills that make launch-grade motion graphics with Claude Code. Every frame is code.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/charlie947/motion-graphics-skills/stargazers"><img src="https://img.shields.io/github/stars/charlie947/motion-graphics-skills?style=flat-square&color=D97557&labelColor=00132F&label=stars" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/skills-13-D97557?style=flat-square&labelColor=00132F" alt="13 skills">
+  <img src="https://img.shields.io/badge/skills-14-D97557?style=flat-square&labelColor=00132F" alt="14 skills">
   <img src="https://img.shields.io/badge/runs_in-Claude_Code_%C2%B7_Codex-58B6FF?style=flat-square&labelColor=00132F" alt="Runs in Claude Code and Codex">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/charlie947/motion-graphics-skills?style=flat-square&color=FFFFFF&labelColor=00132F" alt="Licence"></a>
   <a href="https://charliehills.substack.com"><img src="https://img.shields.io/badge/newsletter-71k_readers-FFD11A?style=flat-square&labelColor=00132F" alt="MarTech AI newsletter"></a>
@@ -33,7 +33,7 @@
 
 ---
 
-I make launch videos, animated charts and reels without After Effects or a video generator. Claude Code writes the animation as code, draws every frame and renders an MP4. These 13 skills are the workflows I use, with the rules that came out of real rejected drafts.
+I make launch videos, animated charts and reels without After Effects or a video generator. Claude Code writes the animation as code, draws every frame and renders an MP4. These 14 skills are the workflows I use, with the rules that came out of real rejected drafts.
 
 ## Install
 
@@ -54,7 +54,7 @@ Download this repo (green **Code** button, then **Download ZIP**) and unzip it, 
 git clone https://github.com/charlie947/motion-graphics-skills.git
 ```
 
-Copy the 13 folders inside `skills/` into `~/.claude/skills/` (every project) or your project's `.claude/skills/` (one project). This loop keeps any skill folder you already have:
+Copy the 14 folders inside `skills/` into `~/.claude/skills/` (every project) or your project's `.claude/skills/` (one project). This loop keeps any skill folder you already have:
 
 ```bash
 mkdir -p ~/.claude/skills
@@ -147,12 +147,13 @@ When you want a specific job done properly, pick a skill below.
 
 ## The skills
 
-Thirteen skills, in the order you use them. Type the line on the right into Claude Code and the right skill picks it up.
+Fourteen skills, in the order you use them. Type the line on the right into Claude Code and the right skill picks it up.
 
 | Stage | Skill | What you get | Say this |
 |---|---|---|---|
 | Set up | [**brand-intake**](skills/brand-intake/) | Builds brand.md and MOTION.md. Every other skill reads them first. | "Set up my brand for motion. Here are five frames I like." |
 | Plan | [**motion-brief-writer**](skills/motion-brief-writer/) | Turns a rough idea into a precise build brief in your brand. | "Write me a motion brief for my next milestone post." |
+| Plan | [**reference-to-motion**](skills/reference-to-motion/) | Breaks down a video you admire, then writes a scene-by-scene Claude Motion prompt in your brand. | "Break down this reference and turn it into a Motion prompt." |
 | Launch | [**launch-video**](skills/launch-video/) | A 30 to 45 second launch for a product, offer or cohort. | "Make a launch video for my new cohort." |
 | Launch | [**apple-launch-film**](skills/apple-launch-film/) | A Mac-style launch film. Menu bar, notch and widgets, all code. | "Make it look like an Apple keynote launch." |
 | Explain | [**vox-explainer**](skills/vox-explainer/) | A 30 to 60 second documentary explainer. | "Make a Vox-style video: why do we dream?" |
