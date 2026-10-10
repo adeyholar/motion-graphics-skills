@@ -153,7 +153,7 @@ Fourteen skills, in the order you use them. Type the line on the right into Clau
 |---|---|---|---|
 | Set up | [**brand-intake**](skills/brand-intake/) | Builds brand.md and MOTION.md. Every other skill reads them first. | "Set up my brand for motion. Here are five frames I like." |
 | Plan | [**motion-brief-writer**](skills/motion-brief-writer/) | Turns a rough idea into a precise build brief in your brand. | "Write me a motion brief for my next milestone post." |
-| Plan | [**reference-to-motion**](skills/reference-to-motion/) | Breaks down a video you admire, then writes a scene-by-scene Claude Motion prompt in your brand. | "Break down this reference and turn it into a Motion prompt." |
+| Plan | [**reference-to-motion**](skills/reference-to-motion/) | Breaks down a video you admire for its moves, takes the look from a website or moodboard, then writes a scene-by-scene Claude Motion prompt. | "Break down this reference and turn it into a Motion prompt." |
 | Launch | [**launch-video**](skills/launch-video/) | A 30 to 45 second launch for a product, offer or cohort. | "Make a launch video for my new cohort." |
 | Launch | [**apple-launch-film**](skills/apple-launch-film/) | A Mac-style launch film. Menu bar, notch and widgets, all code. | "Make it look like an Apple keynote launch." |
 | Explain | [**vox-explainer**](skills/vox-explainer/) | A 30 to 60 second documentary explainer. | "Make a Vox-style video: why do we dream?" |
